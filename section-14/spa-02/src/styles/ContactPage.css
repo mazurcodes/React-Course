@@ -1,0 +1,19 @@
+form {
+  width: 400px;
+  margin: 0 auto;
+  padding: 10px;
+  text-align: right;
+}
+
+form textarea {
+  width: 100%
+}
+form span {
+  margin-right: 20px;
+  color: red;
+}
+
+form button {
+  width: 150px;
+  padding: 5px;
+}

@@ -1,0 +1,13 @@
+.App {
+  text-align: center;
+}
+
+.red {
+  color: red;
+}
+.spacer {
+  margin: 10px auto;
+  width: 80%;
+  height: 3px;
+  background-color: #999
+}

@@ -1,0 +1,37 @@
+.app {
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+  width: 90%;
+  margin: 0 auto;
+  background-color: aliceblue;
+}
+
+header {
+  /* flex-basis: 30vh; */
+  height: 30vh;
+  background-color: burlywood;
+  overflow: hidden;
+}
+
+main {
+  display: flex;
+  flex-grow: 1;
+  padding: 20px;
+}
+
+aside {
+  min-width: 200px;
+  background-color: rgb(252, 221, 82)
+}
+
+.page {
+  background-color: aquamarine;
+  flex-grow: 1;
+}
+
+footer {
+  background-color: coral;
+  line-height: 50px;
+  text-align: center;
+}

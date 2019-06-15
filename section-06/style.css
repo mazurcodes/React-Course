@@ -1,0 +1,29 @@
+body {
+  font-size: 30px;
+  font-family: sans-serif;
+}
+
+button {
+  height: 50px;
+  width: 50px;
+  font-size: 30px;
+  font-family: sans-serif;
+  background-color: white;
+  border: 2px solid black;
+  cursor: pointer;
+}
+span {
+  padding: 20px;
+}
+
+button:disabled {
+  opacity: 0.3;
+  cursor: default;
+}
+
+button.btnBuy {
+  margin-left: 10px;
+  height: 50px;
+  width: 200px;
+  cursor: pointer;
+}

@@ -1,0 +1,25 @@
+{
+  "lesson": "animals",
+  "words" : [
+    {
+      "id": 1,
+      "en": "cat",
+      "pl": "kot"
+    },
+    {
+      "id": 2,
+      "en": "dog",
+      "pl": "pies"
+    },
+    {
+      "id": 3,
+      "en": "fish",
+      "pl": "rybka"
+    },
+    {
+      "id": 4,
+      "en": "rat",
+      "pl": "szczur"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+.products-list h2{
+  padding: 20px;
+}
+
+.products-list ul {
+  list-style: none;
+  padding-left: 20px;
+}
+
+.products-list a {
+  display: block;
+  padding: 2px;
+  margin: 5px;
+  text-decoration: none;
+  color: #555
+}

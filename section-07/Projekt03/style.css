@@ -1,0 +1,23 @@
+html {
+  font-size: 20px;
+  font-family: sans-serif;
+}
+
+li {
+  line-height: 160%;
+  padding: 20px 10px;
+  cursor: pointer;
+}
+
+li:nth-of-type(odd) {
+  background-color: #eee
+}
+li:nth-of-type(even) {
+  background-color: #ccc
+}
+.active {
+  color: #222
+}
+.inactive{
+  color: #aaa
+}
